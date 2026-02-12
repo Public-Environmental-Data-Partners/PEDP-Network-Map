@@ -1,0 +1,86 @@
+name: Generate and Deploy Network Map
+
+on:
+  # Run on push to main
+  push:
+    branches: [main]
+
+  # Run on schedule (daily at 6 AM UTC)
+  schedule:
+    - cron: '0 6 * * *'
+
+  # Allow manual trigger
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Only allow one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v3
+        with:
+          enable-cache: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          uv pip install --system networkx pyvis pandas jupyter
+
+      - name: Sync from Google Sheets
+        run: |
+          ./scripts/sync_from_sheets.py
+        continue-on-error: true
+
+      - name: Generate visualization
+        run: |
+          jupyter nbconvert --execute --to notebook --inplace notebooks/network_visualization.ipynb
+
+      - name: Prepare GitHub Pages
+        run: |
+          mkdir -p _site
+          cp outputs/network_map.html _site/index.html
+
+          # Create a simple README for the site
+          cat > _site/README.md << 'EOF'
+          # PEDP Network Map
+
+          Interactive visualization of the Public Environmental Data Partners network.
+
+          **Auto-generated** from Google Sheets data.
+
+          [View the network →](index.html)
+          EOF
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '_site'
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

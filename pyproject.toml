@@ -1,0 +1,15 @@
+[project]
+name = "pedp-network-map"
+version = "0.1.0"
+description = "Interactive network visualization of climate and environmental data initiatives"
+requires-python = ">=3.12"
+dependencies = [
+    "networkx>=3.2",
+    "pyvis>=0.3.2",
+    "pandas>=2.1.0",
+    "jupyter>=1.0.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

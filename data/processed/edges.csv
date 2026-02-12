@@ -1,0 +1,56 @@
+source,target,relationship_type
+ImpactProject,PEDP,is a member of
+OEDP,PEDP,is a member of
+EPIC,PEDP,is a member of
+EDGI,PEDP,is a member of
+DataFoundation,Cornerstone,funds
+DataFoundation,GRQD,funds
+DataFoundation,CDAN,funds
+DataFoundation,KCF,funds
+DataFoundation,ImpactProject,funds
+PEDP,AGU,coordinates action with
+PEDP,DataFoundation,coordinates action with
+PEDP,CODE,coordinates action with
+PEDP,NASEM,coordinates action with
+PEDP,NYCE,coordinates action with
+PEDP,ClimateUS,coordinates action with
+PEDP,FracTracker,coordinates action with
+PEDP,DRP,coordinates action with
+PEDP,EHDAT,coordinates action with
+PEDP,SHIP,coordinates action with
+DataFoundation,AGU,coordinates action with
+DataFoundation,NASEM,coordinates action with
+DataFoundation,NYCE,coordinates action with
+NASEM,AGU,coordinates action with
+NASEM,GRQD,coordinates action with
+NASEM,KCF,coordinates action with
+NASEM,CODE,coordinates action with
+NASEM,CDAN,coordinates action with
+NYCE,AGU,coordinates action with
+NYCE,ClimateUS,coordinates action with
+AGU,GRQD,coordinates action with
+CODE,ClimateUS,coordinates action with
+CODE,SHIP,coordinates action with
+KCF,GRQD,coordinates action with
+Cornerstone,GRQD,coordinates action with
+DRP,FracTracker,coordinates action with
+DRP,EHDAT,coordinates action with
+OEDP,AGU,coordinates action with
+OEDP,CODE,coordinates action with
+EPIC,CODE,coordinates action with
+EPIC,NASEM,coordinates action with
+EDGI,DRP,coordinates action with
+EDGI,EHDAT,coordinates action with
+PortfoliotoProtectSc,PEDP,funds
+McGovernFoundation,PEDP,funds
+thHourProjectSchmidt,PEDP,funds
+SustainableCitiesFun,PEDP,funds
+DorisDukeCharitableF,PEDP,funds
+HillspireSchmidtFami,PEDP,funds
+AGCISHIPFellowCoalit,PEDP,funds
+MacArthurFoundation,PEDP,funds
+NathanCummings,PEDP,funds
+PackardFoundation,PEDP,funds
+RobertWoodJohnsonFou,PEDP,funds
+SummitFoundation,PEDP,funds
+WokaFoundation,PEDP,funds

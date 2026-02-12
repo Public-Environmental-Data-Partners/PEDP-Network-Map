@@ -1,0 +1,87 @@
+id,name,organization,contact,description,status,website,category,timeline,color
+AGU,American Geophysical Union,AGU,,Leading scientific society advancing Earth and space sciences through collaboration and data sharing,Established,,Data Coordination/Standards,Established/Long-running,red
+CDAN,Climate-Ocean Data Action Network,CDAN,,Network focused on climate and ocean data coordination and accessibility,Emerging,,Data Coordination/Standards,Emerging/Planned,red
+DataFoundation,Data Foundation - Climate Data Collaborative & GHG Coalition,Data Foundation,,Coordinates climate data initiatives and greenhouse gas monitoring coalitions,Established,,Data Coordination/Standards,Established/Long-running,red
+GRQD,Group on Reference Quality Datasets,GRQD,,Develops standards and practices for reference quality environmental datasets,Emerging,,Data Coordination/Standards,Emerging/Planned,red
+KCF,Keeling Curve Foundation,Keeling Curve Foundation,,Preserves and promotes atmospheric CO2 measurement legacy and climate data,Established,,Data Preservation/Archiving,Established/Long-running,blue
+NASEM,NASEM - Earth Observations & Data Stewardship Workshop,National Academies of Sciences Engineering and Medicine,,Convenes stakeholders on Earth observation data stewardship and coordination,Established,,Data Coordination/Standards,Established/Long-running,red
+Cornerstone,Cornerstone Data Initiative,Cornerstone,,Initiative focused on foundational environmental data infrastructure,Emerging,,Data Coordination/Standards,Emerging/Planned,red
+FracTracker,FracTracker,FracTracker Alliance,,Tracks and maps oil and gas development and environmental impacts,Established,,Data Collection/Monitoring,Established/Long-running,blue
+EHDAT,Environmental & Health Data & Analysis Trust,EHDAT,,Preserves and provides access to environmental health data for research,Emerging,,Data Preservation/Archiving,Emerging/Planned,blue
+NYCE,New York Climate Exchange,New York Climate Exchange,,Research and education hub for climate solutions and data collaboration,Recently Launched,,Data Coordination/Standards,Recently Launched (2025),red
+DRP,The Data Rescue Project,Data Rescue Project,,Grassroots effort to preserve endangered government environmental data,Established,,Data Preservation/Archiving,Established/Long-running,blue
+ClimateUS,Climate.us,Climate.us,,Communication platform for climate data and information accessibility,Emerging,,Communication/Access,Emerging/Planned,purple
+CODE,CODE - Center for Open Data Enterprise,Center for Open Data Enterprise,,Promotes open data initiatives and collaboration across sectors,Established,,Capacity Building/Support,Established/Long-running,orange
+SHIP,SHIP: The Strengthening Human Infrastructure Project,SHIP,,Builds capacity and community for environmental data stewardship,Emerging,,Capacity Building/Support,Emerging/Planned,orange
+ImpactProject,The Impact Project,The Impact Project,,Initiative focused on environmental data impact and community engagement,Emerging,,Advocacy/Community Focus,Emerging/Planned,green
+PEDP,Public Environmental Data Partners,Public Environmental Data Partners,,Coordinates preservation and access to public environmental data,Established,,Data Preservation/Archiving,Established/Long-running,green
+OEDP,Open Environmental Data Project,Open Environmental Data Project,,Examines how environmental data moves between community and policymakers for accessibility and participatory governance,Established,,Data Coordination/Standards,Established/Long-running,green
+EPIC,Environmental Policy Innovation Center,Environmental Policy Innovation Center,,Builds policies for rapid environmental progress focusing on clean water endangered species and data-driven conservation,Established,,Capacity Building/Support,Established/Long-running,green
+EDGI,Environmental Data Governance Initiative,Environmental Data & Governance Initiative,,Monitors changes to federal environmental data and supports public access to environmental information,Established,,Data Preservation/Archiving,Established/Long-running,green
+SloanFoundation,Sloan Foundation,Sloan Foundation,,Program: Technology; Interest: Open source,0.5 Called or emailed,,Funder,Established/Long-running,teal
+GatesFoundation,Gates Foundation,Gates Foundation,,Funder interested in environmental data initiatives,0.On our radar,,Funder,Established/Long-running,teal
+HewlettFoundation,Hewlett Foundation,Hewlett Foundation,,Funder interested in environmental data initiatives,0.On our radar,,Funder,Established/Long-running,teal
+OpenDataPolicyLab,Open Data Policy Lab,Open Data Policy Lab,,Interest: Open Data,0.On our radar,,Funder,Established/Long-running,teal
+ResourcesLegacyFund,Resources Legacy Fund,Resources Legacy Fund,,"Interest: Matthew Armsby: ""I’m interested to learn more about PEDP. While my organization Resources Legacy Fun",0.On our radar,,Funder,Established/Long-running,teal
+Googleorg,Google.org,Google.org,,Program: technology / data; Interest: EJ / wildfire / wetlands,1. In conversation,,Funder,Established/Long-running,teal
+NavigationFund,Navigation Fund,Navigation Fund,,Funder interested in environmental data initiatives,1. In conversation,,Funder,Established/Long-running,teal
+PiscesFoundation,Pisces Foundation,Pisces Foundation,,Funder interested in environmental data initiatives,1. In conversation,,Funder,Established/Long-running,teal
+QCF,QCF,QCF,,Funder interested in environmental data initiatives,1. In conversation,,Funder,Established/Long-running,teal
+RennaissanceFoundati,Rennaissance Foundation,Rennaissance Foundation,,Funder interested in environmental data initiatives,1. In conversation,,Funder,Established/Long-running,teal
+Aqualateral,Aqualateral,Aqualateral,,Program: data & advocacy; Interest: climate and environmental justice and tool,2. Proposal submitted,,Funder,Established/Long-running,teal
+FunderCollaborativet,Funder Collaborative (through Rockefeller Brothers),Funder Collaborative (through Rockefeller Brothers),,Funder interested in environmental data initiatives,2. Proposal submitted,,Funder,Established/Long-running,teal
+GenerationFoundation,Generation Foundation,Generation Foundation,,Funder interested in environmental data initiatives,2. Proposal submitted,,Funder,Established/Long-running,teal
+JMKaplanFund,J.M. Kaplan Fund,J.M. Kaplan Fund,,"Program: The 2025 J.M.K. Innovation Prize; Interest: ""bold problem-solvers leading transformative, early-stage projects in the fields of heritage conserv",2. Proposal submitted,,Funder,Established/Long-running,teal
+LeverforChange,Lever for Change,Lever for Change,,Funder interested in environmental data initiatives,2. Proposal submitted,,Funder,Established/Long-running,teal
+PortfoliotoProtectSc,Portfolio to Protect Science,Portfolio to Protect Science,,Funder interested in environmental data initiatives,4. Approved,,Funder,Established/Long-running,teal
+WaverlyStreetFoundat,Waverly Street Foundation,Waverly Street Foundation,,Program: National Urgency; Interest: supporting EJ orgs & litigation; advocacy around data loss/importance & fed govt role,2. Proposal submitted,,Funder,Established/Long-running,teal
+McGovernFoundation,McGovern Foundation,McGovern Foundation,,Funder interested in environmental data initiatives,4. Approved,,Funder,Established/Long-running,teal
+thHourProjectSchmidt,11th Hour Project (Schmidt Family),11th Hour Project (Schmidt Family),,"Interest: EJ, future of enviromental data infrastructure ",4. Approved,,Funder,Established/Long-running,teal
+SustainableCitiesFun,Sustainable Cities Fund (Bloomberg),Sustainable Cities Fund (Bloomberg),,Program: Environment; Interest: Data archiving and website,4. Approved,,Funder,Established/Long-running,teal
+DorisDukeCharitableF,Doris Duke Charitable Foundation,Doris Duke Charitable Foundation,,"Interest: Rapid response, tool development, advocacy, visioning",4. Approved,,Funder,Established/Long-running,teal
+HillspireSchmidtFami,Hillspire (Schmidt Family),Hillspire (Schmidt Family),,"Program: Science Ventures; Interest: data rescuing, preservation, and the future of federal data",4. Approved,,Funder,Established/Long-running,teal
+AGCISHIPFellowCoalit,AGCI SHIP Fellow Coalition,AGCI SHIP Fellow Coalition,,Funder interested in environmental data initiatives,4. Approved,,Funder,Established/Long-running,teal
+MacArthurFoundation,MacArthur Foundation,MacArthur Foundation,,Program: Climate; Interest: misinfromation interest,4. Approved,,Funder,Established/Long-running,teal
+NathanCummings,Nathan Cummings,Nathan Cummings,,Funder interested in environmental data initiatives,4. Approved,,Funder,Established/Long-running,teal
+PackardFoundation,Packard Foundation,Packard Foundation,,"Program: (none / slush fund); Interest: EDGI-focused, but should also benefit PEDP",4. Approved,,Funder,Established/Long-running,teal
+RobertWoodJohnsonFou,Robert Wood Johnson Foundation,Robert Wood Johnson Foundation,,"Interest: (a different part of EDGI applied for an RWJF grant and got it; will have some data work, but mostly",4. Approved,,Funder,Established/Long-running,teal
+SummitFoundation,Summit Foundation,Summit Foundation,,Interest: marine biodiversity,4. Approved,,Funder,Established/Long-running,teal
+WokaFoundation,Woka Foundation,Woka Foundation,,Funder interested in environmental data initiatives,4. Approved,,Funder,Established/Long-running,teal
+MooreFoundation,Moore Foundation,Moore Foundation,,Interest: mainly OEDP but will maybe also benefit PEDP,5. Not Active / Skipped,,Funder,Established/Long-running,teal
+BallmerFoundation,Ballmer Foundation,Ballmer Foundation,,Funder interested in environmental data initiatives,5. Not Active / Skipped,,Funder,Established/Long-running,teal
+GlobalDevelopmentInc,Global Development Incubator,Global Development Incubator,,Interest: Interested in impactful tools + passing back to govt as well as data collection,5. Not Active / Skipped,,Funder,Established/Long-running,teal
+RohanPatel,Rohan Patel,Rohan Patel,,Program: Advisor to many philanthropies; Interest: tech talent working on climate issues,5. Not Active / Skipped,,Funder,Established/Long-running,teal
+Mosaic,Mosaic,Mosaic,,Funder interested in environmental data initiatives,5. Rejected,,Funder,Established/Long-running,teal
+MNetworkthroughPew,M10 Network (through Pew)?,M10 Network (through Pew)?,,Funder interested in environmental data initiatives,0. On our radar,,Funder,Established/Long-running,teal
+PublicBenefitInnovat,Public Benefit Innovation Fund,Public Benefit Innovation Fund,,Funder interested in environmental data initiatives,0. On our radar,,Funder,Established/Long-running,teal
+ArizonaStateUniversi,Arizona State University,Arizona State University,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Research/Academic,Established/Long-running,blue
+AspenGlobalClimateIn,Aspen Global Climate Initative,Aspen Global Climate Initative,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,orange
+CaliforniaStateWater,California State Water Control Board,California State Water Control Board,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Government/Agency,Established/Long-running,orange
+ConnectedbyData,Connected by Data,Connected by Data,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Data Coordination/Standards,Established/Long-running,red
+DARO,DARO,DARO,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,orange
+DataSociety,Data & Society,Data & Society,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Data Coordination/Standards,Established/Long-running,red
+DataIndex,Data Index,Data Index,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Data Coordination/Standards,Established/Long-running,red
+EDGI,EDGI,EDGI,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,orange
+EPAOEJECRformer,EPA OEJECR (former),EPA OEJECR (former),,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Government/Agency,Established/Long-running,orange
+EPIC,EPIC,EPIC,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,orange
+ESIP,ESIP,ESIP,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,orange
+EarthGenome,Earth Genome,Earth Genome,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,orange
+EndofTermArchiveStan,End of Term Archive / Stanford Library,End of Term Archive / Stanford Library,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Data Preservation/Archiving,Established/Long-running,green
+EnvironmentalIntegri,Environmental Integrity Project,Environmental Integrity Project,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,orange
+FederationofAmerican,Federation of American Scientists,Federation of American Scientists,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,orange
+Formerusgs,Former usgs,Former usgs,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Government/Agency,Established/Long-running,orange
+HarvardBUClimateCafe,Harvard/BU Climate Cafe,Harvard/BU Climate Cafe,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,orange
+HeisingSimons,Heising-Simons,Heising-Simons,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,orange
+InternetArchive,Internet Archive,Internet Archive,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Data Preservation/Archiving,Established/Long-running,green
+ItertidalAgency,Itertidal Agency,Itertidal Agency,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Government/Agency,Established/Long-running,orange
+KaporCenter,Kapor Center,Kapor Center,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,orange
+LawrenceBerkeleyLab,Lawrence Berkeley Lab,Lawrence Berkeley Lab,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Research/Academic,Established/Long-running,blue
+LouisvilleformerCEQ,Louisville / former CEQ,Louisville / former CEQ,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,orange
+NYClimateExchange,NY Climate Exchange,NY Climate Exchange,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,orange
+OEDP,OEDP,OEDP,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,orange
+PewCharitableTrust,Pew Charitable Trust,Pew Charitable Trust,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,orange
+RMI,RMI,RMI,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,orange
+SchmidtCenterforData,Schmidt Center for Data Science and Environment,Schmidt Center for Data Science and Environment,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Data Coordination/Standards,Established/Long-running,red
+SkyTruth,SkyTruth,SkyTruth,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,orange
+WoodsHoleOceanograpi,Woods Hole Oceanograpic Institutes,Woods Hole Oceanograpic Institutes,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Research/Academic,Established/Long-running,blue
+workedontheCEJST,worked on the CEJST,worked on the CEJST,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,orange
