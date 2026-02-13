@@ -42,7 +42,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          uv pip install --system networkx pyvis pandas jupyter
+          uv pip install --system networkx pyvis pandas jupyter beautifulsoup4
 
       - name: Sync from Google Sheets
         run: |
@@ -53,10 +53,15 @@ jobs:
         run: |
           jupyter nbconvert --execute --to notebook --inplace notebooks/network_visualization.ipynb
 
+      - name: Add hypothetical watermark
+        run: |
+          python3 scripts/add_hypothetical_watermark.py
+
       - name: Prepare GitHub Pages
         run: |
           mkdir -p _site
           cp outputs/network_map.html _site/index.html
+          cp outputs/network_map_hypothetical.html _site/hypothetical.html
 
           # Create a simple README for the site
           cat > _site/README.md << 'EOF'
@@ -66,7 +71,12 @@ jobs:
 
           **Auto-generated** from Google Sheets data.
 
-          [View the network →](index.html)
+          ## Visualizations
+
+          - **[Current Network →](index.html)** - 78 organizations, 55 relationships
+          - **[Hypothetical Future State →](hypothetical.html)** - Scenario analysis with 2 intermediary hubs
+
+          ⚠️ The hypothetical visualization shows a potential future state, not current relationships.
           EOF
 
       - name: Upload artifact
