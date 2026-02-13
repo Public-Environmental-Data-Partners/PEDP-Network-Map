@@ -54,34 +54,26 @@ RohanPatel,Rohan Patel,Rohan Patel,,Program: Advisor to many philanthropies; Int
 Mosaic,Mosaic,Mosaic,,Funder interested in environmental data initiatives,5. Rejected,,Funder,Established/Long-running,teal
 MNetworkthroughPew,M10 Network (through Pew)?,M10 Network (through Pew)?,,Funder interested in environmental data initiatives,0. On our radar,,Funder,Established/Long-running,teal
 PublicBenefitInnovat,Public Benefit Innovation Fund,Public Benefit Innovation Fund,,Funder interested in environmental data initiatives,0. On our radar,,Funder,Established/Long-running,teal
-ArizonaStateUniversi,Arizona State University,Arizona State University,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Research/Academic,Established/Long-running,blue
-AspenGlobalClimateIn,Aspen Global Climate Initative,Aspen Global Climate Initative,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,orange
-CaliforniaStateWater,California State Water Control Board,California State Water Control Board,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Government/Agency,Established/Long-running,orange
+ArizonaStateUniversi,Arizona State University,Arizona State University,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Research/Academic,Established/Long-running,red
+AspenGlobalClimateIn,Aspen Global Climate Initative,Aspen Global Climate Initative,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,red
+CaliforniaStateWater,California State Water Control Board,California State Water Control Board,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Government/Agency,Established/Long-running,red
 ConnectedbyData,Connected by Data,Connected by Data,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Data Coordination/Standards,Established/Long-running,red
-DARO,DARO,DARO,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,orange
 DataSociety,Data & Society,Data & Society,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Data Coordination/Standards,Established/Long-running,red
 DataIndex,Data Index,Data Index,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Data Coordination/Standards,Established/Long-running,red
-EDGI,EDGI,EDGI,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,orange
-EPAOEJECRformer,EPA OEJECR (former),EPA OEJECR (former),,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Government/Agency,Established/Long-running,orange
-EPIC,EPIC,EPIC,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,orange
-ESIP,ESIP,ESIP,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,orange
-EarthGenome,Earth Genome,Earth Genome,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,orange
-EndofTermArchiveStan,End of Term Archive / Stanford Library,End of Term Archive / Stanford Library,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Data Preservation/Archiving,Established/Long-running,green
-EnvironmentalIntegri,Environmental Integrity Project,Environmental Integrity Project,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,orange
-FederationofAmerican,Federation of American Scientists,Federation of American Scientists,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,orange
-Formerusgs,Former usgs,Former usgs,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Government/Agency,Established/Long-running,orange
-HarvardBUClimateCafe,Harvard/BU Climate Cafe,Harvard/BU Climate Cafe,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,orange
-HeisingSimons,Heising-Simons,Heising-Simons,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,orange
-InternetArchive,Internet Archive,Internet Archive,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Data Preservation/Archiving,Established/Long-running,green
-ItertidalAgency,Itertidal Agency,Itertidal Agency,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Government/Agency,Established/Long-running,orange
-KaporCenter,Kapor Center,Kapor Center,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,orange
-LawrenceBerkeleyLab,Lawrence Berkeley Lab,Lawrence Berkeley Lab,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Research/Academic,Established/Long-running,blue
-LouisvilleformerCEQ,Louisville / former CEQ,Louisville / former CEQ,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,orange
-NYClimateExchange,NY Climate Exchange,NY Climate Exchange,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,orange
-OEDP,OEDP,OEDP,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,orange
-PewCharitableTrust,Pew Charitable Trust,Pew Charitable Trust,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,orange
-RMI,RMI,RMI,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,orange
+EPAOEJECRformer,EPA OEJECR (former),EPA OEJECR (former),,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Government/Agency,Established/Long-running,red
+ESIP,ESIP,ESIP,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,red
+EarthGenome,Earth Genome,Earth Genome,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,red
+EndofTermArchive,End of Term Archive,End of Term Archive / Stanford Library,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Data Preservation/Archiving,Established/Long-running,red
+EnvironmentalIntegri,Environmental Integrity Project,Environmental Integrity Project,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,red
+FederationofAmerican,Federation of American Scientists,Federation of American Scientists,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,red
+Formerusgs,Former usgs,Former usgs,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Government/Agency,Established/Long-running,red
+HarvardBUClimateCafe,Harvard/BU Climate Cafe,Harvard/BU Climate Cafe,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,red
+HeisingSimons,Heising-Simons,Heising-Simons,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,red
+InternetArchive,Internet Archive,Internet Archive,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Data Preservation/Archiving,Established/Long-running,red
+KaporCenter,Kapor Center,Kapor Center,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,red
+LawrenceBerkeleyLab,Lawrence Berkeley Lab,Lawrence Berkeley Lab,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Research/Academic,Established/Long-running,red
+PewCharitableTrust,Pew Charitable Trust,Pew Charitable Trust,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,red
+RMI,RMI,RMI,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,red
 SchmidtCenterforData,Schmidt Center for Data Science and Environment,Schmidt Center for Data Science and Environment,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Data Coordination/Standards,Established/Long-running,red
-SkyTruth,SkyTruth,SkyTruth,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,orange
-WoodsHoleOceanograpi,Woods Hole Oceanograpic Institutes,Woods Hole Oceanograpic Institutes,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Research/Academic,Established/Long-running,blue
-workedontheCEJST,worked on the CEJST,worked on the CEJST,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,orange
+SkyTruth,SkyTruth,SkyTruth,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Capacity Building/Support,Established/Long-running,red
+WoodsHoleOceanograpi,Woods Hole Oceanograpic Institutes,Woods Hole Oceanograpic Institutes,,Organization from Future of Open Environmental Data Convening (Sept 2025),Established,,Research/Academic,Established/Long-running,red
