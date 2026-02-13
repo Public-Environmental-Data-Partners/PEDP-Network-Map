@@ -79,18 +79,19 @@ hypothetical_nodes.to_csv('data/processed/nodes_hypothetical.csv', index=False)
 print(f"✓ Saved {len(hypothetical_nodes)} hypothetical nodes to data/processed/nodes_hypothetical.csv")
 
 # Create hypothetical positions for new nodes
+# Position slightly off to the side of the main cluster (centered at ~x=-14, y=-9)
 print("\nCreating positions for hypothetical nodes...")
 hypothetical_positions = pd.DataFrame([
     {
         'id': 'HYP-HUB1',
-        'x': -200,
-        'y': -150,
+        'x': 100,   # Top-right of center
+        'y': -120,
         'fixed': True
     },
     {
         'id': 'HYP-HUB2',
-        'x': 200,
-        'y': 150,
+        'x': -120,  # Bottom-left of center
+        'y': 100,
         'fixed': True
     }
 ])
@@ -157,8 +158,11 @@ print("\n" + "="*60)
 print("HYPOTHETICAL NETWORK GENERATION COMPLETE")
 print("="*60)
 print(f"Nodes added: {len(hypothetical_nodes)}")
-print(f"  - HYP-HUB1: Regional Data Coordination Hub (x=-200, y=-150)")
-print(f"  - HYP-HUB2: Funder Collaborative Network (x=200, y=150)")
+# Get actual positions from DataFrame
+hub1_pos = hypothetical_positions[hypothetical_positions['id'] == 'HYP-HUB1'].iloc[0]
+hub2_pos = hypothetical_positions[hypothetical_positions['id'] == 'HYP-HUB2'].iloc[0]
+print(f"  - HYP-HUB1: Regional Data Coordination Hub (x={hub1_pos['x']}, y={hub1_pos['y']})")
+print(f"  - HYP-HUB2: Funder Collaborative Network (x={hub2_pos['x']}, y={hub2_pos['y']})")
 print(f"\nEdges added: {len(hypothetical_edges)}")
 print(f"  - Funders → HYP-HUB2: {len(isolated_funders)}")
 print(f"  - HYP-HUB2 → Core: 2")

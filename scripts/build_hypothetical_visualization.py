@@ -40,7 +40,7 @@ colors_df = pd.read_csv('data/processed/colors.csv')
 color_map = dict(zip(colors_df['name'], colors_df['hex']))
 nodes_df['hex_color'] = nodes_df['color'].map(color_map)
 
-positions_map = {row['id']: {'x': row['x'], 'y': row['y'], 'fixed': row['fixed']}
+positions_map = {row['id']: {'x': row['x'], 'y': row['y'], 'fixed': True}  # Force ALL nodes fixed
                  for _, row in positions_df.iterrows()}
 
 print(f"   Nodes: {len(nodes_df)} ({len(nodes_current)} current + {len(nodes_hyp)} hypothetical)")
@@ -100,15 +100,15 @@ net = Network(
     directed=True
 )
 
-# Minimal physics to preserve layout
-net.barnes_hut(
-    gravity=-500,
-    central_gravity=0.01,
-    spring_length=150,
-    spring_strength=0.001,
-    damping=0.9,
-    overlap=0
-)
+# COMPLETELY DISABLE physics to preserve exact layout
+# This ensures an exact overlay of the current network
+net.set_options("""
+{
+  "physics": {
+    "enabled": false
+  }
+}
+""")
 
 # Add nodes
 node_count = 0
