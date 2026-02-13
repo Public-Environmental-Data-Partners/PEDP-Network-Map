@@ -79,19 +79,19 @@ hypothetical_nodes.to_csv('data/processed/nodes_hypothetical.csv', index=False)
 print(f"✓ Saved {len(hypothetical_nodes)} hypothetical nodes to data/processed/nodes_hypothetical.csv")
 
 # Create hypothetical positions for new nodes
-# Position slightly off to the side of the main cluster (centered at ~x=-14, y=-9)
+# Position to spread out the network and reduce crowding
 print("\nCreating positions for hypothetical nodes...")
 hypothetical_positions = pd.DataFrame([
     {
         'id': 'HYP-HUB1',
-        'x': 100,   # Top-right of center
+        'x': -120,  # Top-left (toward isolated non-funders)
         'y': -120,
         'fixed': True
     },
     {
         'id': 'HYP-HUB2',
-        'x': -120,  # Bottom-left of center
-        'y': 100,
+        'x': 120,   # Bottom-right (toward isolated funders)
+        'y': 120,
         'fixed': True
     }
 ])
