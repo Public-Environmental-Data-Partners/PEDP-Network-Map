@@ -71,6 +71,58 @@ uv run --with jupyter --with networkx --with pyvis --with pandas jupyter lab
    - Generate an interactive HTML visualization with styled edges
 4. Open `outputs/network_map.html` in your browser to explore the network
 
+## 🔮 Hypothetical Future Network
+
+**NEW**: In addition to the current network visualization, this project includes a **hypothetical future state** visualization showing how the isolated organizations could become connected through strategic intermediary hubs.
+
+### What is it?
+
+The hypothetical network shows a scenario analysis where:
+- **2 new intermediary organizations** (Regional Data Coordination Hub, Funder Collaborative Network) connect the ecosystem
+- **46 isolated organizations** become engaged through these hubs
+- The network transforms from **47 disconnected components** to **1 fully connected network**
+
+### Key Differences
+
+| Aspect | Current Network | Hypothetical Network |
+|--------|----------------|---------------------|
+| **Nodes** | 78 organizations | 80 (78 + 2 intermediaries) |
+| **Edges** | 55 relationships | 105 (55 + 50 hypothetical) |
+| **Components** | 47 disconnected | 1 fully connected |
+| **Isolated** | 46 organizations | 0 organizations |
+
+### Visual Indicators
+
+⚠️ The hypothetical visualization includes multiple warnings to prevent confusion:
+- Purple banner: "HYPOTHETICAL FUTURE STATE - NOT CURRENT NETWORK"
+- Watermark: "SCENARIO ANALYSIS" across the page
+- Light grey background (vs white for current)
+- Grey dashed edges for hypothetical connections
+- Box-shaped nodes for intermediaries
+- [HYPOTHETICAL] labels on new nodes
+
+### Building Both Visualizations
+
+```bash
+# Build both current and hypothetical networks
+./scripts/build_visualizations.sh
+```
+
+This generates:
+- `outputs/network_map.html` - Current network
+- `outputs/network_map_hypothetical.html` - Hypothetical future state
+
+Open both side-by-side in your browser to compare!
+
+### Use Cases
+
+- **Strategic Planning**: Identify what types of intermediary organizations would connect the ecosystem
+- **Investment Justification**: Show before/after impact of coordination hubs
+- **Partnership Development**: Visualize pathways to engage isolated funders and practitioners
+- **Stakeholder Communication**: Demonstrate the fragmentation problem and potential solutions
+
+📖 **Full Documentation**: See [HYPOTHETICAL_NETWORK.md](HYPOTHETICAL_NETWORK.md) for complete details on how to modify, build, and use the hypothetical network.
+
 ## Project Structure
 
 ```
