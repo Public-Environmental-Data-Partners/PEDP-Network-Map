@@ -73,7 +73,7 @@ ClimateUS,-75,-50,False
 CODE,-75,-50,False
 SHIP,-75,-50,False
 ImpactProject,-75,-50,False
-PEDP,-75,-50,False
+PEDP,0,0,True
 OEDP,-75,-50,False
 EPIC,-75,-50,False
 EDGI,-75,-50,False
